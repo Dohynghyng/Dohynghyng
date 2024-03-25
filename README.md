@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### 👋 Hi there!
 
 <!--
 <img alt="OpenCV" src =""/>
