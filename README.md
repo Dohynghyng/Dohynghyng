@@ -1,6 +1,11 @@
 ### Hi there 👋
 
 Language
+<img alt="Python" src ="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+
+<img alt="Python" src ="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
+
+
 <img src="https://img.shields.io/badge/텍스트-컬러코드?style=원하는스타일&logo=아이콘이름&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=Python&logoColor=white"/>
